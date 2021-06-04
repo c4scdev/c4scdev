@@ -10,7 +10,8 @@ Yes. You can.
 (These are the hack clients that can be installed in PojavLauncher, with their certified links)
 
 Wurst Client : 
-[Wurst](https://www.wurstclient.net/download/)[ForgeWurst](https://forge.wurstclient.net/)
+[Wurst](https://www.wurstclient.net/download/)
+[ForgeWurst](https://forge.wurstclient.net/)
 
 Impact Client :
 [Impact](https://impactclient.net/download?platform=jar)
