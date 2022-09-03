@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.METRICS_TOCKEN }}
 
           # Options
-          user: cyn0n
+          user: cyvinn
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Manila
